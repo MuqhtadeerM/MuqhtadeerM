@@ -112,6 +112,6 @@ I am a developer who loves building high-performance web platforms and blockchai
   
 <br>
   
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/newtonfrank)
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/muqhtadeer)
   
 </div>
