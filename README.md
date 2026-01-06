@@ -5,7 +5,7 @@
 ### Computer Science Undergrad | Full-Stack Engineer | Frontend Engineer
 *Building digital experiences with a focus on motion, interaction, and performance.*
 
-[![](https://visitcount.itsvg.in/api?id=muqhtadeerM&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=muqhtadeerM&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
