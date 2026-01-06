@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I’m Muhammed Muqhtadeer
+# 👋 Hi, I’m Muhammed Muqhtadeer M
 
-### Computer Science Undergrad | Full-Stack Engineer
+### Computer Science Undergrad | Full-Stack Engineer | Frontend Engineer
 *Building digital experiences with a focus on motion, interaction, and performance.*
 
-[![](https://visitcount.itsvg.in/api?id=newtonfrank&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=muqhtadeerM&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
