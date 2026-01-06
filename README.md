@@ -84,7 +84,7 @@ I am a developer who loves building high-performance web platforms and blockchai
   <br>
   <br>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=muqhtadeerM&theme=dark&hide_border=true&card_width=496)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nu-orcin.vercel.app?user=muqhtadeerM&theme=dark" alt="GitHub Streak" /></a>
 
 </div>
 
