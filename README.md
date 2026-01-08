@@ -80,7 +80,7 @@ I am a developer who loves building high-performance web platforms and blockchai
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newtonfrank&theme=dark&hide_border=true" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqhtadeerM&theme=dark&hide_border=true" alt="profile details" />
   <br>
   <br>
   
