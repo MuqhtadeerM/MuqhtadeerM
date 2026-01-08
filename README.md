@@ -77,20 +77,26 @@ I am a developer who loves building high-performance web platforms and blockchai
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-
+<div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqhtadeerM&theme=dark&hide_border=true" alt="profile details" />
   <br>
-  <br>
-  
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nu-orcin.vercel.app?user=muqhtadeerM&theme=dark" alt="GitHub Streak" /></a>
-
+</div>
+<div>
+  <img src="https://github-readme-streak-stats-nu-orcin.vercel.app?user=muqhtadeerM&theme=dark" alt="GitHub Streak"/> <br/>
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=muqhtadeerM&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Muqhtadeers github-readme-stats" width="48%"/>
+</div>
+<br/>
+<div>
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=muqhtadeerM&layout=compact&theme=dark&hide_border=true" alt="Muqhtadeers github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muqhtadeerM&theme=dark&hide_border=true" alt="Muqhtadeers github readme activity graph" width="60%" />
 </div>
 
+</div>
+ <br/>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muqhtadeerM&theme=radical&utcOffset=8" alt="productive time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muqhtadeerM&theme=radical" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muqhtadeerM&theme=dark&hide_border=true&utcOffset=8" alt="productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muqhtadeerM&theme=dark&hide_border=true" alt="repos per language" />
 </div>
 
 ### 🏆 Trophies
