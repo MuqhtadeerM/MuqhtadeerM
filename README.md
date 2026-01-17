@@ -9,7 +9,7 @@
 
 ---
 
-<a href="ttps://www.linkedin.com/in/muqhtadeer-m/">
+<a href="https://www.linkedin.com/in/muqhtadeer-m/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://x.com/muqhtadeer123s">
