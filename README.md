@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Muhammed Muqhtadeer M
 
-### Computer Science Undergrad | Full-Stack Engineer | Frontend Engineer
+### Full-Stack Engineer | Frontend Engineer
 *Building digital experiences with a focus on motion, interaction, and performance.*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=muqhtadeerM&label=Profile%20Views&color=0e75b6&style=flat)
