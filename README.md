@@ -8,11 +8,11 @@
 
 Building scalable, responsive, and high-performance web applications with modern technologies.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=muqhtadeerM&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/muqhtadeerM?label=Followers&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/muqhtadeerM?affiliations=OWNER&style=flat-square" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=muqhtadeerM&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/muqhtadeerM?label=Followers&style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/muqhtadeerM?affiliations=OWNER&style=flat-square" alt="Stars" />
+</div>
 
 <p>
 <a href="https://www.linkedin.com/in/muqhtadeer-m/">
