@@ -4,30 +4,15 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Frontend+Engineer;React+%7C+Next.js+Developer;Node.js+Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-### 🚀 Full-Stack Developer | Frontend Engineer
+### 🚀 Full Stack Developer | Frontend Engineer | Backend Engineer
 
 Building scalable, responsive, and high-performance web applications with modern technologies.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=muqhtadeerM&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/muqhtadeerM?label=Followers&style=flat-square" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/muqhtadeerM?affiliations=OWNER&style=flat-square" alt="Stars" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=muqhtadeerM&style=for-the-badge&color=0e75b6" />
 
-<p>
-<a href="https://www.linkedin.com/in/muqhtadeer-m/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/github/followers/muqhtadeerM?style=for-the-badge&logo=github&label=Followers" />
 
-<a href="mailto:muhammedmuzawar9@outlook.com">
-<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-</a>
-
-<a href="https://x.com/muqhtadeer123s">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</p>
+<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge" />
 
 </div>
 
@@ -159,10 +144,6 @@ Building scalable, responsive, and high-performance web applications with modern
 # 🏆 GitHub Profile Summary
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqhtadeerM&theme=github_dark"/>
-
-<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muqhtadeerM&theme=github_dark"/>
 
