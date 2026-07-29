@@ -144,16 +144,6 @@ Building scalable, responsive, and high-performance web applications with modern
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=muqhtadeerM&theme=github-dark&hide_border=true"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqhtadeerM&theme=github_dark"/>
-
-</div>
-
 ---
 
 # 📈 Contribution Graph
