@@ -1,26 +1,33 @@
-```md
+
 <div align="center">
 
 # 👋 Hi, I'm Muhammed Muqhtadeer M
 
-### Full-Stack Developer | Frontend Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Frontend+Engineer;React+%7C+Next.js+Developer;Node.js+Backend+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-Building scalable, responsive, and high-performance web applications with modern JavaScript technologies.
+### 🚀 Full-Stack Developer | Frontend Engineer
+
+Building scalable, responsive, and high-performance web applications with modern technologies.
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=muqhtadeerM&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=muqhtadeerM&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/muqhtadeerM?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/muqhtadeerM?affiliations=OWNER&style=flat-square" />
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/muqhtadeer-m/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/muqhtadeer123s" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:muhammedmuzawar9@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/muqhtadeer-m/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:muhammedmuzawar9@outlook.com">
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
+
+<a href="https://x.com/muqhtadeer123s">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
 </p>
 
 </div>
@@ -29,91 +36,112 @@ Building scalable, responsive, and high-performance web applications with modern
 
 # 💫 About Me
 
-I'm a **Full-Stack Developer** passionate about building modern web applications with **React**, **Node.js**, and **JavaScript**.
+```javascript
+const muqhtadeer = {
+    role: "Full Stack Developer",
+    frontend: [
+        "React",
+        "Next.js",
+        "JavaScript",
+        "TypeScript",
+        "Redux Toolkit",
+        "Tailwind CSS"
+    ],
+    backend: [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "JWT Authentication"
+    ],
+    databases: [
+        "MongoDB",
+        "PostgreSQL",
+        "MySQL",
+        "Firebase"
+    ],
+    devops: [
+        "Docker",
+        "AWS",
+        "GitHub Actions"
+    ],
+    currentlyLearning: [
+        "System Design",
+        "Kubernetes",
+        "CI/CD",
+        "DSA"
+    ]
+}
+```
 
-- 🚀 Building scalable Full-Stack applications
-- 🌱 Currently learning **TypeScript**, **System Design**, **Docker**, **Kubernetes**, and **DSA**
-- 👨‍💻 Looking to collaborate on React, Node.js and Open Source projects
-- 💬 Ask me about **JavaScript, React, Node.js, REST APIs**
-- ⚡ Passionate about performance optimization and clean UI development
+- 🔭 Building scalable Full Stack applications
+- 🌱 Learning Next.js, TypeScript, Kubernetes & System Design
+- 👯 Open to collaborating on Open Source Projects
+- 💬 Ask me about React, Node.js, JavaScript & REST APIs
+- ⚡ Passionate about Performance Optimization
 
 ---
 
-# 🛠️ Tech Stack
+# 💻 Tech Stack
+
+<div align="center">
 
 ## Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,python" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python&perline=6"/>
 
 ## Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind,bootstrap,materialui,sass&perline=8"/>
 
 ## Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,npm,pnpm,yarn&perline=5"/>
 
 ## Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,redis,supabase&perline=6"/>
 
-## Tools & Cloud
+## DevOps & Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws,vscode,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,vercel,netlify,githubactions&perline=7"/>
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash&perline=7"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📌 Task Manager
+## 📝 Task Manager
 
-**React • Node.js • Express • MongoDB**
-
-✔ JWT Authentication
-
-✔ CRUD Operations
-
-✔ Responsive UI
-
-✔ REST API
+- JWT Authentication
+- CRUD Operations
+- React + Node.js
+- MongoDB
+- Responsive Design
 
 ---
 
-## 📌 Salesforce Validation Rule Manager
+## ⚡ Salesforce Validation Rule Manager
 
-**React • Node.js**
-
-✔ Dynamic Validation Rules
-
-✔ Authentication
-
-✔ REST APIs
-
-✔ Modern Dashboard
+- Dynamic Validation Rules
+- REST APIs
+- Authentication
+- Dashboard
+- React
 
 ---
 
-## 📌 E-Commerce Platform
+## 🛒 E-Commerce Platform
 
-**React • Node.js • MongoDB**
-
-✔ Product Management
-
-✔ Shopping Cart
-
-✔ Admin Dashboard
-
-✔ Secure Authentication
+- Shopping Cart
+- Product Management
+- Admin Dashboard
+- Payment Integration
+- Secure Authentication
 
 ---
 
@@ -121,64 +149,91 @@ I'm a **Full-Stack Developer** passionate about building modern web applications
 
 ### Full Stack Developer Intern
 
-**Rug Rel Components and Systems Pvt. Ltd.**
+**Rug Rel Components And Systems Pvt Ltd**
 
-- Built responsive React applications
-- Developed REST APIs with Node.js
+- Developed scalable React applications
+- Built REST APIs using Node.js & Express
 - Integrated MongoDB
-- Optimized application performance
-- Worked with Docker, Git and Postman
+- Improved application performance
+- Worked with Docker, Git & Postman
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muqhtadeerM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+> **⚠️ If these cards don't load, replace `muqhtadeerM` with your exact GitHub username (matching your profile URL).**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muqhtadeerM&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muqhtadeerM&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muqhtadeerM&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
-<div align="center">
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=muqhtadeerM&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muqhtadeerM&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=muqhtadeerM&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌟 What I Do
+# 📈 Contribution Graph
 
-- ⚛️ React Development
-- 🌐 Full-Stack Web Applications
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muqhtadeerM&theme=github-dark&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqhtadeerM&theme=github_dark"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muqhtadeerM&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muqhtadeerM&theme=github_dark"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muqhtadeerM&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muqhtadeerM&theme=github_dark&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 🎯 What I Do
+
+- ⚛️ React & Next.js Development
+- 🌐 Full Stack Web Applications
 - 🔐 Authentication & Authorization
 - 📡 REST API Development
-- 📱 Responsive UI Design
+- 📱 Responsive UI
 - ⚡ Performance Optimization
 - 🐳 Docker
-- ☁️ Cloud Deployment
+- ☁️ AWS Deployment
+- 🗄️ Database Design
+- 📦 Clean Architecture
 
 ---
 
-# 🏅 GitHub Profile Summary
+# 📚 Currently Learning
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqhtadeerM&theme=tokyonight"/>
-
-</div>
+- 🧠 System Design
+- 🐳 Kubernetes
+- ☁️ AWS Services
+- ⚡ Next.js 15
+- 🔥 TypeScript
+- 📈 DSA
+- 🚀 CI/CD
+- 🏗️ Scalable Architecture
 
 ---
 
@@ -206,7 +261,6 @@ I'm a **Full-Stack Developer** passionate about building modern web applications
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code with purpose. Build with passion. Learn without limits."*
+*"Code. Learn. Build. Repeat."*
 
 </div>
-```
