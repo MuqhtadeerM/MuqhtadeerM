@@ -1,126 +1,212 @@
+```md
 <div align="center">
 
-# 👋 Hi, I’m Muhammed Muqhtadeer M
+# 👋 Hi, I'm Muhammed Muqhtadeer M
 
-### Full-Stack Engineer | Frontend Engineer
-*Building digital experiences with a focus on motion, interaction, and performance.*
+### Full-Stack Developer | Frontend Engineer
 
-![Visitor Count](https://komarev.com/ghpvc/?username=muqhtadeerM&label=Profile%20Views&color=0e75b6&style=flat)
+Building scalable, responsive, and high-performance web applications with modern JavaScript technologies.
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=muqhtadeerM&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/muqhtadeer-m/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/muqhtadeer123s" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:muhammedmuzawar9@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 
 ---
+
+# 💫 About Me
+
+I'm a **Full-Stack Developer** passionate about building modern web applications with **React**, **Node.js**, and **JavaScript**.
+
+- 🚀 Building scalable Full-Stack applications
+- 🌱 Currently learning **TypeScript**, **System Design**, **Docker**, **Kubernetes**, and **DSA**
+- 👨‍💻 Looking to collaborate on React, Node.js and Open Source projects
+- 💬 Ask me about **JavaScript, React, Node.js, REST APIs**
+- ⚡ Passionate about performance optimization and clean UI development
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,java,python" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+## Tools & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws,vscode,figma" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📌 Task Manager
+
+**React • Node.js • Express • MongoDB**
+
+✔ JWT Authentication
+
+✔ CRUD Operations
+
+✔ Responsive UI
+
+✔ REST API
+
+---
+
+## 📌 Salesforce Validation Rule Manager
+
+**React • Node.js**
+
+✔ Dynamic Validation Rules
+
+✔ Authentication
+
+✔ REST APIs
+
+✔ Modern Dashboard
+
+---
+
+## 📌 E-Commerce Platform
+
+**React • Node.js • MongoDB**
+
+✔ Product Management
+
+✔ Shopping Cart
+
+✔ Admin Dashboard
+
+✔ Secure Authentication
+
+---
+
+# 💼 Experience
+
+### Full Stack Developer Intern
+
+**Rug Rel Components and Systems Pvt. Ltd.**
+
+- Built responsive React applications
+- Developed REST APIs with Node.js
+- Integrated MongoDB
+- Optimized application performance
+- Worked with Docker, Git and Postman
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muqhtadeerM&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muqhtadeerM&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=muqhtadeerM&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muqhtadeerM&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌟 What I Do
+
+- ⚛️ React Development
+- 🌐 Full-Stack Web Applications
+- 🔐 Authentication & Authorization
+- 📡 REST API Development
+- 📱 Responsive UI Design
+- ⚡ Performance Optimization
+- 🐳 Docker
+- ☁️ Cloud Deployment
+
+---
+
+# 🏅 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqhtadeerM&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/muqhtadeer-m/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://x.com/muqhtadeer123s">
-  <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
-</a>
+
 <a href="mailto:muhammedmuzawar9@outlook.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+</a>
+
+<a href="https://x.com/muqhtadeer123s">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-### 💫 About Me
-
-I am a developer who loves building high-performance web platforms and blockchain-powered systems. I specialize in the React ecosystem, real-time data visualization, and creative development.
-
-- 🔭 **Currently working on:** Scalable web apps to ehance my skills.
-- 🌱 **Currently learning:** DevOps (Kubernetes, Docker), Typescript, System Design, DSA.
-- 👯 **Looking to collaborate on:** Open-source projects in React, Node.js, or Blockchain.
-- ⚡ **Interests:** emerging Web3 technologies.
-- 💬 **Ask me about:** Javascript, React.
-
----
-
-### 💻 Tech Stack
-
 <div align="center">
 
-#### **Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+### ⭐ Thanks for visiting my profile!
 
-#### **Frontend & UI**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
-#### **Backend & Database**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
-
-#### **Cloud & Tools**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-#### **Design**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white)
+*"Code with purpose. Build with passion. Learn without limits."*
 
 </div>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqhtadeerM&theme=dark&hide_border=true" alt="profile details" />
-  <br>
-</div>
-<div>
-  <img src="https://github-readme-streak-stats-nu-orcin.vercel.app?user=muqhtadeerM&theme=dark" alt="GitHub Streak"/> <br/>
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api?username=muqhtadeerM&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="Muqhtadeers github-readme-stats" width="48%"/>
-</div>
-<br/>
-<div>
-  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=muqhtadeerM&layout=compact&theme=dark&hide_border=true" alt="Muqhtadeers github readme top-langs" width="39%" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muqhtadeerM&theme=dark&hide_border=true" alt="Muqhtadeers github readme activity graph" width="60%" />
-</div>
-
-</div>
- <br/>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muqhtadeerM&theme=dark&hide_border=true&utcOffset=8" alt="productive time" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muqhtadeerM&theme=dark&hide_border=true" alt="repos per language" />
-  
-</div>
-
-### 🏆 Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muqhtadeerM&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  
-</div>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=muqhtadeerM&label=Profile%20Views&color=0e75b6&style=flat)
-
-### 🔝 Top Contributions
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=muqhtadeerM&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-  
-</div>
-
----
-
-<div align="center">
-  
-<br>
-  
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/muqhtadeer)
-  
-</div>
+```
