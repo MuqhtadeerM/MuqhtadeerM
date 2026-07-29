@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Muhammed Muqhtadeer M
@@ -36,48 +35,22 @@ Building scalable, responsive, and high-performance web applications with modern
 
 # 💫 About Me
 
-```javascript
-const muqhtadeer = {
-    role: "Full Stack Developer",
-    frontend: [
-        "React",
-        "Next.js",
-        "JavaScript",
-        "TypeScript",
-        "Redux Toolkit",
-        "Tailwind CSS"
-    ],
-    backend: [
-        "Node.js",
-        "Express.js",
-        "REST APIs",
-        "JWT Authentication"
-    ],
-    databases: [
-        "MongoDB",
-        "PostgreSQL",
-        "MySQL",
-        "Firebase"
-    ],
-    devops: [
-        "Docker",
-        "AWS",
-        "GitHub Actions"
-    ],
-    currentlyLearning: [
-        "System Design",
-        "Kubernetes",
-        "CI/CD",
-        "DSA"
-    ]
-}
-```
+🚀 Full Stack Developer passionate about building scalable web applications.
 
-- 🔭 Building scalable Full Stack applications
-- 🌱 Learning Next.js, TypeScript, Kubernetes & System Design
-- 👯 Open to collaborating on Open Source Projects
-- 💬 Ask me about React, Node.js, JavaScript & REST APIs
-- ⚡ Passionate about Performance Optimization
+💻 Experienced with React, Next.js, Node.js and modern JavaScript.
+
+📚 Currently learning
+
+- System Design
+- Kubernetes
+- CI/CD
+- AWS
+- PostgreSQL
+- TypeScript
+
+🤝 Looking to collaborate on React, Node.js and Open Source projects.
+
+⚡ I enjoy building performant, scalable and user-friendly applications.
 
 ---
 
@@ -163,15 +136,21 @@ const muqhtadeer = {
 
 <div align="center">
 
-> **⚠️ If these cards don't load, replace `muqhtadeerM` with your exact GitHub username (matching your profile URL).**
+<img src="https://streak-stats.demolab.com?user=muqhtadeerM&theme=github-dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muqhtadeerM&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muqhtadeerM&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqhtadeerM&theme=github_dark"/>
 
-<br><br>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=muqhtadeerM&theme=github-dark-blue&hide_border=true"/>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=muqhtadeerM&theme=github-dark&hide_border=true"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muqhtadeerM&theme=github_dark"/>
 
 </div>
 
