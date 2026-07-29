@@ -96,12 +96,15 @@ I am a developer who loves building high-performance web platforms and blockchai
  <br/>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muqhtadeerM&theme=dark&hide_border=true&utcOffset=8" alt="productive time" />
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muqhtadeerM&theme=dark&hide_border=true" alt="repos per language" />
+  
 </div>
 
 ### 🏆 Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muqhtadeerM&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  
 </div>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=muqhtadeerM&label=Profile%20Views&color=0e75b6&style=flat)
@@ -109,6 +112,7 @@ I am a developer who loves building high-performance web platforms and blockchai
 ### 🔝 Top Contributions
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=muqhtadeerM&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  
 </div>
 
 ---
