@@ -103,20 +103,6 @@ Building scalable, responsive, and high-performance web applications with modern
 
 ---
 
-# 💼 Experience
-
-### Full Stack Developer Intern
-
-**Rug Rel Components And Systems Pvt Ltd**
-
-- Developed scalable React applications
-- Built REST APIs using Node.js & Express
-- Integrated MongoDB
-- Improved application performance
-- Worked with Docker, Git & Postman
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
